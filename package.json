@@ -1,0 +1,24 @@
+{
+  "name": "mysql_nodejs_module_example",
+  "version": "1.0.0",
+  "description": "Mysql module test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdsilva/Mysql_nodeJS_module_exemple.git"
+  },
+  "keywords": [
+    "Mysql",
+    "node",
+    "JS"
+  ],
+  "author": "francisco Ioneiton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdsilva/Mysql_nodeJS_module_exemple/issues"
+  },
+  "homepage": "https://github.com/fdsilva/Mysql_nodeJS_module_exemple#readme"
+}
